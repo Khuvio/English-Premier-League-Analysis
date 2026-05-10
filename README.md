@@ -73,6 +73,4 @@ Future Enhancements
 - Live data integration for real-time predictions
 - Expand dashboards to other leagues
 - 
-Author
-Created by Manasi KS – passionate about Sports and Data  Analytics.
-Let’s connect on LinkedIn  - https://www.linkedin.com/in/manasi-ks-0b697327a/
+
